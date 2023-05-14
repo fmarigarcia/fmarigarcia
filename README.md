@@ -14,16 +14,16 @@
 
 <h3>Programming Languages</h3>
 
-[![Tech: Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=blacky)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+[![Tech: Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
 [![Tech: Typescript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)
 [![Tech: PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white)](https://www.php.net)
-[![Tech: .NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/es-es/learn/dotnet/what-is-dotnet)
 [![Tech: Elixir](https://img.shields.io/badge/Elixir-4B275F.svg?style=for-the-badge&logo=Elixir&logoColor=white)](https://elixir-lang.org/)
 
 <h3>Frontend Development</h3>
 
 [![Tech: React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)](https://reactjs.org/)
 [![Tech: Angular](https://img.shields.io/badge/Angular-DD0031.svg?style=for-the-badge&logo=Angular&logoColor=white)](https://angular.io/)
+[![Tech: PhaserJS](https://img.shields.io/badge/PhaserJS-%236FF6FF?style=for-the-badge)](https://phaser.io/)
 
 <h3>Backend Development</h3>
 
@@ -43,7 +43,8 @@
 [![Tech: Storybook](https://img.shields.io/badge/Storybook-FF4785.svg?style=for-the-badge&logo=Storybook&logoColor=white)](https://storybook.js.org/)
 [![Tech: Jest](https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white)](https://jestjs.io/)
 
-<h2>Some things I'm learning right now</h2>
+<h2>Some of the things I'm learning right now</h2>
 
+[![Tech: Spryker](https://img.shields.io/badge/Spryker-%231EBEA0?style=for-the-badge)](https://spryker.com)
 [![Tech: TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)](https://tailwindcss.com/)
 [![Tech: NextJS](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
