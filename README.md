@@ -1,7 +1,7 @@
 # Hi, I'm Fran Marí 👋
 
-![https://www.linkedin.com/in/francisco-mar%C3%AD-garc%C3%ADa-149930153/](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)
-![mailto:fran.mari.94@gmail.com](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/francisco-mar%C3%AD-garc%C3%ADa-149930153/)
+[![Mail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:fran.mari.94@gmail.com)
 
 <!--
 **fmarigarcia/fmarigarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
