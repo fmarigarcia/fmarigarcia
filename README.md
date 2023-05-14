@@ -3,6 +3,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/francisco-mar%C3%AD-garc%C3%ADa-149930153/)
 [![Mail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:fran.mari.94@gmail.com)
 
+I'm from Spain :es:, and I've been a professional <b>Full Stack Developer </b> since mid 2017.
+
+During my years as a dev, I've worked with multitude of languages and frameworks, but I'm always ready for a challenge and always thriving to learn something new.
+
 <h2>Some technologies I'm familiar with</h2>
 
 <h3>Markup & Styling</h3>
@@ -42,6 +46,7 @@
 [![Tech: Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)](https://www.docker.com/)
 [![Tech: Storybook](https://img.shields.io/badge/Storybook-FF4785.svg?style=for-the-badge&logo=Storybook&logoColor=white)](https://storybook.js.org/)
 [![Tech: Jest](https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white)](https://jestjs.io/)
+[![Tech: Cypress](https://img.shields.io/badge/Cypress-17202C.svg?style=for-the-badge&logo=Cypress&logoColor=white)](https://www.cypress.io/)
 
 <h2>Some of the things I'm learning right now</h2>
 
