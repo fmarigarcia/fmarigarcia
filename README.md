@@ -28,6 +28,9 @@ During my years as a dev, I've worked with multitude of languages and frameworks
 [![Tech: React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)](https://reactjs.org/)
 [![Tech: Angular](https://img.shields.io/badge/Angular-DD0031.svg?style=for-the-badge&logo=Angular&logoColor=white)](https://angular.io/)
 [![Tech: PhaserJS](https://img.shields.io/badge/PhaserJS-%236FF6FF?style=for-the-badge)](https://phaser.io/)
+[![Tech: TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)](https://tailwindcss.com/)
+[![Tech: NextJS](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+
 
 <h3>Backend Development</h3>
 
@@ -51,5 +54,3 @@ During my years as a dev, I've worked with multitude of languages and frameworks
 <h2>Some of the things I'm learning right now</h2>
 
 [![Tech: Spryker](https://img.shields.io/badge/Spryker-%231EBEA0?style=for-the-badge)](https://spryker.com)
-[![Tech: TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)](https://tailwindcss.com/)
-[![Tech: NextJS](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
